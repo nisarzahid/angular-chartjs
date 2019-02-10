@@ -13,6 +13,9 @@ export class WeatherService {
       .map(result => result);
   }
 
-  
+
+  mynewMethod(){
+    
+  }
 
 }
